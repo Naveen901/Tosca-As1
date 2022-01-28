@@ -1,0 +1,126 @@
+[3] 19:38:20: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[3] 19:38:20: Log level: 4
+[3] 19:38:20: Release: 15.0.0.836
+[3] 19:38:22: No service discovery configured.
+[3] 19:38:22:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 19:38:22: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 19:38:22: Searcher found 0 results in 108.708 ms
+[3] 19:38:22:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 19:38:22:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 19:38:22:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 19:38:22:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 19:38:22:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 19:38:22:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 19:38:22: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:38:26:  ShowStatusInfo: 'Ready'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:38:26:  ShowStatusInfo: 'Ready'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:38:26:  ShowStatusInfo: 'Ready'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:38:26:  ShowStatusInfo: 'Ready'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh all finished'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 19:38:26:  ShowStatusInfo: 'Ready'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 19:38:26:  ShowStatusInfo: 'Ready'
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 19:38:26:  ShowStatusInfo: 'Refresh all finished'
+[0] 19:38:26: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 19:38:26: OpenWorkspace took 00:00:06.5594995 to finish
+[4] 19:38:30:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 19:38:30:  ShowStatusInfo: 'Ready'
+[4] 19:38:30:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 19:38:30:  ShowStatusInfo: 'Ready'
+[4] 19:38:30:  ShowStatusInfo: 'Refresh view finished'
+[4] 19:38:32:  ShowStatusInfo: 'Ready'
+[4] 19:38:33:  ShowStatusInfo: '1 object selected'
+[4] 19:38:34:  ShowStatusInfo: 'Ready'
+[4] 19:38:34:  ShowStatusInfo: '1 object selected'
+[4] 19:38:37:  ShowStatusInfo: 'Ready'
+[4] 19:38:39:  ShowStatusInfo: '1 object selected'
+[4] 19:38:39:  ShowStatusInfo: 'Ready'
+[4] 19:38:43:  ShowStatusInfo: '1 object selected'
+[4] 19:38:43:  ShowStatusInfo: 'Ready'
+[4] 19:38:44:  ShowStatusInfo: '1 object selected'
+[4] 19:38:44:  ShowStatusInfo: 'Ready'
+[4] 19:44:20:  ShowStatusInfo: '1 object selected'
+[4] 19:44:20:  ShowStatusInfo: 'Ready'
+[4] 19:44:21:  ShowStatusInfo: '1 object selected'
+[4] 19:44:21:  ShowStatusInfo: 'Ready'
+[4] 19:44:23:  ShowStatusInfo: '1 object selected'
+[4] 19:44:23:  ShowStatusInfo: 'Ready'
+[4] 19:44:24:  ShowStatusInfo: '1 object selected'
+[4] 19:44:24:  ShowStatusInfo: 'Ready'
+[4] 19:44:35:  ShowStatusInfo: '1 object selected'
+[4] 19:44:40:  ShowStatusInfo: 'Ready'
+[4] 19:44:59:  ShowStatusInfo: '1 object selected'
+[4] 19:45:04:  ShowStatusInfo: 'Ready'
+[4] 19:45:08:  ShowStatusInfo: '1 object selected'
+[4] 19:45:13:  ShowStatusInfo: 'Ready'
+[4] 19:54:39:  ShowStatusInfo: 'Print View'
+[3] 19:54:39: Resolved assembly 'CrystalDecisions.ReportAppServer.ClientDoc, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.ClientDoc.dll'
+[3] 19:54:39: Resolved assembly 'CrystalDecisions.ReportAppServer.DataDefModel, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.DataDefModel.dll'
+[4] 19:55:06:  ShowStatusInfo: 'Ready'
+[4] 19:55:06:  ShowStatusInfo: 'Print View finished'
+[3] 19:55:06: Task 'Print View' finished
+[4] 19:55:11:  ShowStatusInfo: 'Ready'
+[4] 19:58:04:  ShowStatusInfo: '1 object selected'
+[4] 19:58:05:  ShowStatusInfo: 'Ready'
+[3] 20:14:47: Closing Workspace!
+[3] 20:14:47: Log closed!
